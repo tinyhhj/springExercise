@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://tinyhhj:Samsung*99@192.168.0.4:32786/
+      database: test
